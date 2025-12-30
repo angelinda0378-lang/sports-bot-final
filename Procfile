@@ -1,2 +1,2 @@
-web: python sports_analyzer_bot_with_nba.py
+worker: python sports_bot_final.py
 
